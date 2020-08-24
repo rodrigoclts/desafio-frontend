@@ -1,0 +1,49 @@
+[
+  {
+    "productID": 4,
+    "name": "Chef Anton's Cajun Seasoning",
+    "description": "",
+    "unitPrice": 22,
+    "unitsInStock": 53,
+    "image": "http://lorempixel.com/400/200/technics/"
+  },{
+    "productID": 5,
+    "name": "Chef Anton's Gumbo Mix",
+    "description": "",
+    "unitPrice": 21.35,
+    "unitsInStock": 0,
+    "image": "http://lorempixel.com/400/200/technics/"
+  },
+  {
+    "productID": 6,
+    "name": "Grandma's Boysenberry Spread",
+    "description": "",
+    "unitPrice": 25,
+    "unitsInStock": 120,
+    "image": "http://lorempixel.com/400/200/technics/"
+  },
+  {
+    "productID": 7,
+    "name": "Uncle Bob's Organic Dried Pears",
+    "description": "",
+    "unitPrice": 30,
+    "unitsInStock": 15,
+    "image": "http://lorempixel.com/400/200/technics/"
+  },
+  {
+    "productID": 8,
+    "name": "Northwoods Cranberry Sauce",
+    "description": "",
+    "unitPrice": 40,
+    "unitsInStock": 6,
+    "image": "http://lorempixel.com/400/200/technics/"
+  },
+  {
+    "productID": 9,
+    "name": "Mishi Kobe Niku",
+    "description": "",
+    "unitPrice": 97,
+    "unitsInStock": 29,
+    "image": "http://lorempixel.com/400/200/technics/"
+  }
+]
